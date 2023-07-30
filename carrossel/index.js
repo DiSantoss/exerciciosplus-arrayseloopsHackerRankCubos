@@ -21,6 +21,6 @@ function solucao(sequencia) {
 
 }
 
-let cliques = '>>>>>>>>>'
+let cliques = '>>><<<<<<<>>>>>>'
 
 solucao(cliques)
